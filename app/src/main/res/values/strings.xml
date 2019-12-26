@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kcymiddle</string>
+    <string name="button">출력</string>
+    <string name="button2">두번째 글자 출력</string>
+    <string name="button3">한글자삭제</string>
+
+</resources>
